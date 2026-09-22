@@ -1,0 +1,5 @@
+value,description
+192.0.2.10,documentation address
+198.51.100.0/24,documentation network
+203.0.113.7,documentation address
+not-an-ip,invalid example
